@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262636122769",
+    "firebase_url": "https://ideabrainforum.firebaseio.com",
+    "project_id": "ideabrainforum",
+    "storage_bucket": "ideabrainforum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262636122769:android:9c05ffa81fce53a5b84530",
+        "android_client_info": {
+          "package_name": "team17.you2auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262636122769-vdv2ess73d7fho3pkpd3r9lugdstvpck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9mXUSjGyKvdmGYAXQ5Ti-WThWQ9Qu6Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262636122769-vdv2ess73d7fho3pkpd3r9lugdstvpck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
